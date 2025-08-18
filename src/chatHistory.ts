@@ -286,7 +286,7 @@ For detailed information, visit the [Landmark Metropolitan University Tuition Fe
       "role": "model",
       "parts": [
         {
-          text: "### Programs in the School of Science, Engineering & Technology (LSSET)\n\n- **Hardware Maintenance**\n- **Software Engineering**\n- **Mechanical Manufacturing**\n- **Computer Graphics**\n- **Electrical Power Systems**\n- **Web Design**\n- **Info & Cyber Security**\n- **Database Management**\n- **Network & Security**\n- **Civil Engineering Technology**\n- **Telecommunication**\n- **Air Conditioning and Refrigeration**\n- **E-commerce & Digital Marketing**\n- **Urban Planning**\n- **Electrotechnics**\n- **DEVOPS Engineering** (Special)\n\nProgram durations:\n- **HND:** 2 years\n- **Bachelor's Degree (BTech):** 3 years\n- **Top-Up BTech:** 1 year\n- **Masters (MTech):** 2 years"
+          text: "### Programs in the School of Science, Engineering & Technology (LSSET)\n\n- **Hardware Maintenance**\n- **Software Engineering**\n- **Mechanical Manufacturing**\n- **Computer Graphics**\n- **Electrical Power Systems**\n- **Web Design**\n- **Cyber Security**\n- **Database Management**\n- **Network & Security**\n- **Civil Engineering Technology**\n- **Telecommunication**\n- **E-commerce & Digital Marketing**\n- **Urban Planning**- **DEVOPS Engineering** (Special)\n\nProgram durations:\n- **HND:** 2 years\n- **Bachelor's Degree (BTech):** 3 years\n- **Top-Up BTech:** 1 year\n- **Masters (MTech):** 2 years"
         }
       ]
     },
